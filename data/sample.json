@@ -1,0 +1,5 @@
+{
+  "probe": true,
+  "note": "synthetic placeholder, not real pesticide data",
+  "items": [{"id": "S-001", "value": 1}, {"id": "S-002", "value": 2}]
+}
