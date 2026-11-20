@@ -9,4 +9,4 @@ jobs:
   trusted-release:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "impersonator check: same name, different app. Should NOT satisfy ruleset."
+      - run: 'echo "impersonator check: same name, different app. Should NOT satisfy ruleset."'
